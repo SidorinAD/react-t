@@ -1,0 +1,22 @@
+.detailrowview-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: sans-serif;
+  color: #f0f6fc;
+}
+
+textarea {
+  resize: none;
+  width: 650px;
+  height: 100px;
+  color: #f0f6fc;
+  background-color: #0d1117
+}
+
+.detailrowview-disclaimer {
+  height: 450px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
