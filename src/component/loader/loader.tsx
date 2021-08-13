@@ -1,4 +1,4 @@
-import "./loader.css";
+import "./loader.scss";
 
 const Loader = () => <div className="lds-hourglass"></div>;
 
